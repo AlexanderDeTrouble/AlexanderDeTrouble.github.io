@@ -12,7 +12,7 @@ labels:
 summary: Перевод комикса Dream Avay, что когда-то был выпущен в фанзине для увековечивания автора.
 ---
 
-<img class="ui high right floated rounded image" src="../images/WQ-Tb4lriq4.jpg">
+<img class="ui medium right floated rounded image" src="../images/WQ-Tb4lriq4.jpg">
 
 Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
 
