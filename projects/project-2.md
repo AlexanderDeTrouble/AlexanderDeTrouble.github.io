@@ -20,5 +20,5 @@ Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application
 
 In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
  
-Комикс ориг. версия: <a href="https://vk.com/album185579527_219430517"><i class="large vk icon"></i>Унесённые сном</a>
+Комикс ориг. версия: <a href="https://vk.com/album185579527_219430517"><i class="large vk icon"></i>Унесённые сном</a> <br>
 Комикс моб. версия: <a href="https://vk.com/album185579527_219430533"><i class="large vk icon"></i>Унесённые сном</a>
