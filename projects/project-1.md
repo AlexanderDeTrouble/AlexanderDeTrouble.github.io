@@ -14,11 +14,11 @@ summary: Перевод комикса Dream Avay, что когда-то был
 
 <img class="ui medium right floated rounded image" src="../images/WQ-Tb4lriq4.jpg">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
-
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
-
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
+Автором сия комикса является lovelyneckbeard, который был вынужден прекратить свою деятельность художника и заняться реальной жизнью. 
+Поскольку он не мог совмещать работу и художественную деятельность, он закрыл свой патреон и удалил большинство аккаунтов с которых вёл деятельность.
  
+Комикс повествует о Принцессе Луне, которая отработала свои положенные часы и отправилась на заслуженный сон, но её сны всегда одинаковы:
+превращение в Найтмер Мун, схватка с Селестией и изгнание благодаря Элементам Гармонии. Но во время похода к привычному месту, она замечает странную дверь...
+
 Комикс ориг. версия: <a href="https://vk.com/album185579527_219430517"><i class="large vk icon"></i>Унесённые сном</a> <br>
 Комикс моб. версия: <a href="https://vk.com/album185579527_219430533"><i class="large vk icon"></i>Унесённые сном</a>
