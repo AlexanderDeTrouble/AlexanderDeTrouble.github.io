@@ -9,7 +9,7 @@ date: 13-03-2021
 labels:
   - Перевод
   - Комикс
-summary: Перевод комикса Dream Avay, что когда-то был выпущен в фанзине для увековечивания автора.
+summary: Перевод комикса Dream Away, что когда-то был выпущен в фанзине для увековечивания автора.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/WQ-Tb4lriq4.jpg">
