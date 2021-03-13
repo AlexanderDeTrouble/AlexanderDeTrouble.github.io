@@ -16,24 +16,19 @@
     },
     "profiles": [
       {
+        "network": "vk",
+        "username": "mamoru_trouble",
+        "url": "https://vk.com/mamoru_trouble"
+      },
+      {
+        "network": "steam",
+        "username": "mamoru_trouble",
+        "url": "https://steamcommunity.com/id/mamoru_trouble/"
+      },
+      {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
-      },
-      {
-        "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "AveAcVale",
+        "url": "http://github.com/AveAcVale"
       }
     ]
   },
