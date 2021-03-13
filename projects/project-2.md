@@ -5,7 +5,7 @@ image: images/WQ-Tb4lriq4.jpg
 title: Dream Away
 permalink: projects/dreamaway
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 13.03.2021
 labels:
   - Перевод
   - Комикс
