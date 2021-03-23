@@ -8,37 +8,8 @@
 
   <div class="fourteen wide column no-bottom">
     <p class="ui no-bottom">
-progress {
-  text-align: center;
-  height: 1.5em;
-  width: 100%;
-  -webkit-appearance: none;
-  border: none;
-  
-  /* Set the progressbar to relative */
-  position:relative;
-}
-progress:before {
-  content: attr(data-label);
-  font-size: 0.8em;
-  vertical-align: 0;
-  
-  /*Position text over the progress bar */
-  position:absolute;
-  left:0;
-  right:0;
-}
-progress::-webkit-progress-bar {
-  background-color: #c9c9c9;
-}
-progress::-webkit-progress-value {
-  background-color: #7cc4ff;
-}
-progress::-moz-progress-bar {
-  background-color: #7cc4ff;
-}
-
-<progress max="100" value="50" data-label="50% Complete"></progress>
+<div style="z-index: 2;"><span>Staging item 144 of 271...</span></div>
+<div style="margin-top: -32px;"><progress max="100" value="44">44%</progress></div>
   </div>
 </div>
 {% endif %}
