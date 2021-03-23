@@ -8,15 +8,11 @@
 
   <div class="fourteen wide column no-bottom">
     <p class="ui no-bottom">
-    {% for entry in site.data.bio.skills %}
-      <p class="ui no-bottom">
-      <b>{{ entry.name }}:</b>
-      {% for keyword in entry.keywords %}
-        {{ keyword }}{% if forloop.last != true %}, {% endif %}
-      {% endfor %}
-      </p>
-    {% endfor %}
-
+<div class="progress">
+    <progress max="100" value="0"></progress>
+    <div class="progress-value"></div>
+    <div class="progress-bg"><div class="progress-bar"></div></div>
+</div>
   </div>
 </div>
 {% endif %}
