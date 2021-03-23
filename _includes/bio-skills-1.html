@@ -5,41 +5,12 @@
   <div class="two wide column">
     <h3 class="ui left aligned header no-bottom">Skills</h3>
   </div>
-  <div class="fourteen wide column bottom">
-    <p class="ui bottom">
-<div class="progress">
-    <progress max="100" value="0"></progress>
-    <div class="progress-value"></div>
-    <div class="progress-bg"><div class="progress-bar"></div></div>
-</div>
-{
-@keyframes progress_bar {
-  0% {
-    background-position: 0 0;
-  }
-  100% {
-    background-position: -40px 0;
-  }
-}
-
-.progress-bar
-{
-  transition: width 1s linear;
-}
-
-.progress-bar:after
-{
-  animation: progress_bar 0.8s linear infinite;
-}
-.progress progress[value="1"] + .progress-value:before 
-{
-  content: "1%"; 
-}
-.progress progress[value="1"] ~ .progress-bg .progress-bar 
-{
-  width: 1%; 
-}
-}
-  </div>
+<div class="col-md-6 right-div">
+              <div class="progress skill-bar">
+                <div class="progress-bar progress-bar-warning" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100">
+                  <span class="skill">Jquery <i class="val">75%</i></span>
+                </div>
+              </div>
+            </div>
 </div>
 {% endif %}
