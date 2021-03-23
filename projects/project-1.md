@@ -22,4 +22,3 @@ summary: Перевод комикса Dream Away, что когда-то был
 
 Комикс ориг. версия: <a href="https://vk.com/album185579527_219430517"><i class="large vk icon"></i>Унесённые сном</a> <br>
 Комикс моб. версия: <a href="https://vk.com/album185579527_219430533"><i class="large vk icon"></i>Унесённые сном</a>
-<progress value="5" max="100"></progress>
