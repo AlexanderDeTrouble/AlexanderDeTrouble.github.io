@@ -5,7 +5,7 @@
     "picture": "https://i.imgur.com/wNK8Rsf.jpg",
     "email": "MamoruTrouble@yandex.ru",
     "website": "https://aveacvale.github.io",
-    "summary": "Депрессия, проблемы с социальным взаимодействием. У меня много недостатков - но это и делает меня человеком. Я тот, кто Я есть. И надеюсь, что Я буду вам интересен так же, как и Вы мне.",
+    "summary": "Маленький сайтик с нишевым авторским контентом и некоторой информацией.",
     "location": {
       "address": "",
       "countryCode": "Россия",
@@ -34,8 +34,6 @@
     {
       "name": "интернет",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
       ]
     },
     {
