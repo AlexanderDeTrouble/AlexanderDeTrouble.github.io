@@ -1,11 +1,10 @@
 {
   "basics": {
     "name": "Александр Проблема",
-    "label": "Обычный человек",
     "picture": "https://i.imgur.com/wNK8Rsf.jpg",
     "email": "MamoruTrouble@yandex.ru",
     "website": "https://aveacvale.github.io",
-    "summary": "Маленький сайтик с нишевым авторским контентом и некоторой информацией.",
+    "summary": "Сайт с нишевым авторским контентом и некоторой информацией.",
     "location": {
       "address": "",
       "countryCode": "Россия",
