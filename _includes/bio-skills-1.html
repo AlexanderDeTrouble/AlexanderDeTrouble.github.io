@@ -7,8 +7,37 @@
   </div>
   <div class="fourteen wide column bottom">
     <p class="ui bottom">
-<label for="file">Downloading progress:</label>
-<progress id="file" value="3" max="7"> 3/7 </progress> 
+<div class="progress">
+    <progress max="100" value="0"></progress>
+    <div class="progress-value"></div>
+    <div class="progress-bg"><div class="progress-bar"></div></div>
+</div>
+@keyframes progress_bar {
+  0% {
+    background-position: 0 0;
+  }
+  100% {
+    background-position: -40px 0;
+  }
+}
+
+.progress-bar
+{
+  transition: width 1s linear;
+}
+
+.progress-bar:after
+{
+  animation: progress_bar 0.8s linear infinite;
+}
+.progress progress[value="1"] + .progress-value:before 
+{
+  content: "1%"; 
+}
+.progress progress[value="1"] ~ .progress-bg .progress-bar 
+{
+  width: 1%; 
+}
   </div>
 </div>
 {% endif %}
